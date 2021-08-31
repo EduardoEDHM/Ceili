@@ -22,7 +22,7 @@
 
 @font-face {
     font-family: SofiaR;
-    src: url(/assets/fonts/Sofia\ Pro\ Regular\ Az.otf);
+    src: url("./assets/fonts/Sofia\ Pro\ Regular\ Az.otf");
 }
 
 body{

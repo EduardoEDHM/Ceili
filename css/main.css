@@ -1,3 +1,9 @@
+@font-face {
+    font-family: SofiaR;
+    src: url(../fonts/Sofia\ Pro\ Regular\ Az.otf);
+}
+
+
 /* Variables */
 
 
@@ -18,11 +24,6 @@
     padding: 0;
     box-sizing: border-box;
     border: 0;
-}
-
-@font-face {
-    font-family: SofiaR;
-    src: url("./assets/fonts/Sofia\ Pro\ Regular\ Az.otf");
 }
 
 body{
